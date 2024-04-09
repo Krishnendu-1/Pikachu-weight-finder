@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+::placeholder{
+    text-align: center;
+    color: rgba(10, 15, 0, 0.482);
+    
+}
+
+body{
+    background-color: rgb(235, 224, 210);
+    
+}
